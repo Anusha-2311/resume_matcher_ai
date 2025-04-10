@@ -6,7 +6,7 @@ Build your own AI-powered resume screening tool to analyze resumes, predict suit
 
 ## 📌 Overview
 
-This project is designed to automate resume screening by extracting important information (Skills, Experience, Education, Projects), predicting job roles, and checking alignment with job descriptions using similarity metrics.
+This project is designed to automate resume screening by extracting important information (Skills, Experience, Education, rojects), predicting job roles, and checking alignment with job descriptions using similarity metrics.
 
 ---
 
